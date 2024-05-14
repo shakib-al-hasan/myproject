@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a basic Git & Github documentation for begenner
+=======
+here is a github basic documentation for begeener
+>>>>>>> 387c8221a1e080eb78bd69f846bb1964a42570f6
